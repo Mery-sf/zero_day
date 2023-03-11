@@ -1,5 +1,5 @@
-#Vagrant Project
-##Learning how to code in the local machine
+# Vagrant Project
+## Learning how to code in the local machine
 Our objectives :
 * What is a virtual machine
 * What is Vagrant
